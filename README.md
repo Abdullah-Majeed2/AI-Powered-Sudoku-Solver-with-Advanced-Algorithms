@@ -51,3 +51,10 @@ This project helped me practice and understand:
 - Modular software architecture and data persistence
 
 ---
+
+## Contributors
+- Abdullah Majeed
+- Syed Turrab Haider
+- Syed Yousaf Rasheed
+
+---
